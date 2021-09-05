@@ -1,4 +1,4 @@
-// Simple C++ program to display "Hello World"
+// C++ Program to Check Whether Number is Even or Odd
 
 // Header file for input output functions
 #include <iostream>
