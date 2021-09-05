@@ -1,4 +1,4 @@
-// Simple C++ program to display "Hello World"
+// C++ Program to Find GCD/HCF
 
 // Header file for input output functions
 #include <iostream>
