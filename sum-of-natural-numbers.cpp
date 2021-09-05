@@ -1,4 +1,4 @@
-// Simple C++ program to display "Hello World"
+// C++ Program to Calculate Sum of Natural Numbers
 
 // Header file for input output functions
 #include <iostream>
