@@ -1,5 +1,4 @@
-// Simple C++ program to display "Hello World"
-
+// C++ Program to Multiply two Numbers
 // Header file for input output functions#include <iostream>
 using namespace std;
 
