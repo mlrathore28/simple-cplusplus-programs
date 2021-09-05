@@ -1,4 +1,4 @@
-// Simple C++ program to Check Palindrome Number
+// C++ Program to Check Whether a Number is Palindrome or Not
 
 // Header file for input output functions
 #include <iostream>
