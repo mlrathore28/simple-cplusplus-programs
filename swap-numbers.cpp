@@ -1,4 +1,4 @@
-// Simple C++ program to display "Hello World"
+// C++ Program to Swap Two Numbers
 
 // Header file for input output functions
 #include <iostream>
